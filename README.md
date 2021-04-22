@@ -1,8 +1,18 @@
-### Hi there 👋
+### Welcome my GitHub! 👋
 
 <!--
 **Paulodobb/Paulodobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a  href="https://github.com/SP-XD">
+  <!--<img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>->
+  <img src="https://github.com/Paulodobb/Paulodobb/blob/main/dev-working.gif?raw=true" href="https://github.com/Paulodobb" alt="CoDiNg RocKs"  width="550"/> </a>  
 
+### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
+
+<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/22i2tpjp3lg2gt3iksdupc4za" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+<!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
