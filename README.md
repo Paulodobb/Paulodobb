@@ -7,7 +7,7 @@
     <img src="https://github.com/Paulodobb/Paulodobb/blob/main/dev-working.gif" href="https://github.com/Paulodobb" alt="CoDiNg RocKs"  width="550"/> 
 
 </a>  
-  <!--
+<!--
 TODO
 ### Vibing to : 🎧 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/22i2tpjp3lg2gt3iksdupc4za) <br>
